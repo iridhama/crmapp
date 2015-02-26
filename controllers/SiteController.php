@@ -49,6 +49,7 @@ class SiteController extends Controller
 
     public function actionIndex()
     {
+        //test
         return $this->render('index');
     }
 
